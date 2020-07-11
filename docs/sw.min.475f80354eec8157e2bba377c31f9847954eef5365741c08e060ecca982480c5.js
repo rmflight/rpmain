@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/rpmain/sw.js",{scope:"/rpmain/"});}

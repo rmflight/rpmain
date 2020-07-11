@@ -6,11 +6,12 @@ img_credit: "Photo Credit: Matt Howard on Unsplash"
 img_link: "https://unsplash.com/@thematthoward?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
 ---
 
-At the honest age of 6 my daughter look at my dissertation and called it 'Boring.' She wasn't wrong. I've decided to create a novel in which I turn the boring dissertation into a story about alien colonialism. 
+# Who am I?
 
-['Symbiosis'](https://rmflight.github.io/symbiosisnovel) is a story about a war between three colonizers:
-* Ks'ou, the parasites who failed at colonizing humans and have begun once more with a new, more subtle plan.
-* Thhiyatkhoor, the great warriors who saved humans from their fate in the first wave of Ks'ou-Human colonization.
-* And humans, of course, who have always been very skilled at colonizing one another.
+Rivière Parley is the pseudonym for a professor of Literature, Language, and Pedagogy somewhere on kyôsta l-Earth (also known as elu-sthii) Earth. Much of the content of the Symbiosis Series, whether direct or not, is informed by the horrors of her dissertation, which (broadly) addresses African colonization, race, identity politics, and (socio)linguistics. She likes sci-fi, afrofuturism, and learning languages.
+
+# What Am I Writing?
+
+I am *slowly* writing the book Symbiosis, which can be accessed [here](https://rmflight.github.io/symbiosisnovel).
 
 A related short story is 'Days Without War'.
