@@ -89,5 +89,5 @@ enableGitInfo = true
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker = true
   
-  BookAuthor = "Riviere Parley"
+  BookAuthor = "Rivière Parley"
   CopyRightYear = "2020"
