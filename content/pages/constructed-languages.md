@@ -9,19 +9,19 @@ img_credit: "Photo: eberhard grossgasteiger on Unsplash"
 
 Constructed languages are crafted by the author, and therefore subject to human error. If you find anything amiss, please let me know!
 
-## Ks'Sassi (Ks'ou language)
+# Ks'Sassi (Ks'ou language)
 
 Under construction! [Check out the IPA pulmonic consonant chart with audio for sounds](https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio). Vowels coming soon.
 
 ![Ks'Sassi](/rpmain/img/kssassi_pronounciation.png)
 
-### Overview
+## Overview
 
 Ks'ou language, translinguated to the human tongue, largely relies on surdic consonants (uttered with the breath and not sound -(f, k, p, s, t), voiced plosives (d, g, b), and a few vowels (the most common are a, i, e). Occasionally contains dipthongs such as ‘aou’ and ‘iaa.’ Subject-Verb-Object (SVO) word order. 
 
 **Notes**: 'Surd' is from the Latin word for deaf and mute. It is also where English gets the word 'absurd'.
 
-### Grammar and Stats
+## Grammar and Stats
 
 Syntax: SVO word order, negation comes after the verb or clause
 
@@ -29,11 +29,11 @@ Make plural (4+) by adding 'ett, except plural (3): add 'ydoun; 2 is counted as 
 
 No genders, no verb 'to be'
 
-### Example Sentences
+## Example Sentences
 
 
 
-### Ks'sass-English Dictionary
+## Ks'sass-English Dictionary
 
 art = article; n = noun; v = verb; prep = preposition; adj = adjective; interj = interjection; adv = adverb; pron = pronoun; conj = conjunction; id = idiomatic
 
@@ -149,7 +149,7 @@ minus (lesser) - idez
   * same designation used for twins
 
 
-### Idiomatic Terms and Phrases, Untranslatable Terms
+## Idiomatic Terms and Phrases, Untranslatable Terms
 
 * *ds’sassi’lii* = literally, my speaking voice; what Ks'ou refer to as the sounds they emit while in liquid
 * *ke xte l’tabf ad* = literally, the truth of this knowledge is not; figuratively, you’re wrong (without ‘ad,’ means the opposite - you’re right)
@@ -157,11 +157,11 @@ minus (lesser) - idez
 * *ss’tef* = as in portuguese saudade, expresses a wistfulness for something that will perhaps never be fulfilled
 * *tyuu* = you, but meant as a term of honor, respect, and later, affection, which Ks'ou learn from humans. When one says ‘you,’ it is an acknowledgement of ontological (being) or presence. (Functions as a disjunctive (stressed, tonic) pronoun, like ‘toi’)
 
-### Curse Words
+## Curse Words
 
 giddân, zia plok, psyta, bogoud
 
-### Pronouns
+## Pronouns
 
 (I) ks 
 
@@ -176,7 +176,7 @@ giddân, zia plok, psyta, bogoud
 (them) wis 
 
 
-### Verbs
+## Verbs
 
 be born = syx
 
@@ -197,7 +197,7 @@ tire (exhaust) = wythaou int. v
 travel = plett 
 
 
-### Conjugations
+## Conjugations
  
 * Gerund
   * add -aïsh to the verb; if the verb ends in a vowel it gets eaten (e.g. verb ‘nia’ but gerund ‘ni-aïsh’ for 'hearing')
@@ -217,8 +217,37 @@ travel = plett
   * Ks'ou: Allïk, Aurrin, Edran, Idath, Idrit, Kelisfton, NeVarr,
   * Places: Assoud, Kedrash,
   
-## Endaithsu (Thhiyatkhoor language)
+# Endaithsu (Thhiyatkhoor language)
 
 In progress! Checkout the IPA pulmonic consonant chart with audio for sounds. Vowels coming soon.
 
 ![Endaithu](/rpmain/img/endaithsu_pronounciation.png)
+
+## PHASE ONE (in progress): Data Collection
+
+Looking ahead... 
+
+## PHASE TWO: Phonology, Grammar 
+
+## PHASE THREE: Lexicon, idiomatic expressions
+
+Resources: I'm using Mark Rosenfelder's "The Language Construction Kit" and David J. Peterson's "The Art of Language Invention." Both have their own merits so I highly recommend both of them if you'd like to embark on this journey with me.
+
+
+## Explanation
+
+pending...
+
+## End - Eng Dictionary
+
+pending...
+
+# Izlaa (Universal language)
+
+## Explanation
+
+Humans refer to it as 'Uni.' This is the language spoken across species in the universe and marks the beginnings towards a political federation of inter-species alliances. Due to a significant Thhiyatkhoor interstellar presence, many of the words (estimated 30-40%) are direct or modified imports from their language.
+
+## Izl-Eng Dictionary
+
+pending

@@ -17,7 +17,7 @@ Rivière Parley is the pseudonym for a professor of Literature, Language, and Pe
 
 # Buy me coffee?
 
-Like lots of folk, I am broke. I write this on my own free time, mostly at night or on the weekends, while I try to figure out how to pay all the loan debt accumulated during the PhD. A little support will definitely not hurt, and give me a little hope! Here's my CashApp link!
+Like lots of folk, I am broke. I write this on my own free time, mostly at night or on the weekends, while I try to figure out how to pay all the loan debt accumulated during the PhD. A little support will definitely not hurt, and give me a little hope! Here's my [CashApp link](https://cash.me/$riviereparley)!
 
 # Comments?
 
